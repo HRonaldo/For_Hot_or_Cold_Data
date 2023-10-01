@@ -4,7 +4,8 @@
 # 在线优化（ski-rental）
 + Online learning: A comprehensive survey  
 https://www.sciencedirect.com/science/article/pii/S0925231221006706
-+ 
++Online Algorithms - What Is It Worth to Know the Future?(寻呼问题，内存页的存放)
+https://link.springer.com/chapter/10.1007/978-3-642-15328-0_37
 
 # 云数据库(云原生、K8s、冷热存储)
 + 移动设备文件系统冷热数据管理策略  
