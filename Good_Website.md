@@ -19,12 +19,12 @@ https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7SpYmpwuEAip-5eL_4r6qXL8a2h
 + 云原生数据库综述(挺好挺全的)  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7SpaSY98ke-8o2eRKnJLDZMZbEcNOQyEvzkiQBm2HajvHsFgJlQ_ge_oLbvtwOamdbpawBXgJ2IfI-J5m0MVp49qaoskd1vGRtBCr4CtwEckqYSv7zHxtUdujkS6cZGlUxVw=&uniplatform=NZKPT&flag=copy
 + 华为云云原生数据库 助力中小企业降本增效 驶入数字化转型快车道(比较简略，但是和课题有关)  
-https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7SpYfOjl6YczsEi4moHv1__VD04HuLqYgBSA7Qx7g94zdnY6Ue0h8tD2o6NH2YM7vBzJrVp5bpaqm5KL2vgWv1xVXICYKjPyXsQjMf_wheRntr7t1-n5YRspGXEbm6FcBuu8=&uniplatform=NZKPT&flag=copy
-+ 酷家乐海量数据冷热分离设计与实践
-https://www.163.com/dy/article/HU3AMQEF0511D3QS.html
-+ 腾讯云原生
-https://cloud.tencent.com/developer/article/2029473
-+ 阿里云HBase冷热分离
-https://developer.aliyun.com/article/718395
+https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7SpYfOjl6YczsEi4moHv1__VD04HuLqYgBSA7Qx7g94zdnY6Ue0h8tD2o6NH2YM7vBzJrVp5bpaqm5KL2vgWv1xVXICYKjPyXsQjMf_wheRntr7t1-n5YRspGXEbm6FcBuu8=&uniplatform=NZKPT&flag=copy  
++ 酷家乐海量数据冷热分离设计与实践  
+https://www.163.com/dy/article/HU3AMQEF0511D3QS.html  
++ 腾讯云原生  
+https://cloud.tencent.com/developer/article/2029473  
++ 阿里云HBase冷热分离  
+https://developer.aliyun.com/article/718395  
 + 浅谈云原生数据库：回顾过去，未来可期
 https://huaweicloud.csdn.net/63311060d3efff3090b50e3a.html?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-2-125626143-blog-118541642.235%5Ev38%5Epc_relevant_sort&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-2-125626143-blog-118541642.235%5Ev38%5Epc_relevant_sort&utm_relevant_index=5
