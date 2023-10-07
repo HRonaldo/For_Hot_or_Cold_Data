@@ -3,8 +3,8 @@
 + <http://desktop.nju.edu.cn/CXCY/NJU/Item/Detail/e5090516-1f08-4206-a35b-8a5bb191a3dd>
 # 在线优化（ski-rental）
 + Online learning: A comprehensive survey  
-https://www.sciencedirect.com/science/article/pii/S0925231221006706
-+Online Algorithms - What Is It Worth to Know the Future?(寻呼问题，内存页的存放)
+https://www.sciencedirect.com/science/article/pii/S0925231221006706  
++ Online Algorithms - What Is It Worth to Know the Future?(寻呼问题，内存页的存放)  
 https://link.springer.com/chapter/10.1007/978-3-642-15328-0_37
 
 # 云数据库(云原生、K8s、冷热存储)
