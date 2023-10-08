@@ -1,4 +1,4 @@
-// you could add good website in this file  
+<img width="581" alt="image" src="https://github.com/HRonaldo/For_Hot_or_Cold_Data/assets/116811457/4bad0924-00c8-4115-9f17-79e757d17e6c">// you could add good website in this file  
 # 申报书、项目答辩
 + <http://desktop.nju.edu.cn/CXCY/NJU/Item/Detail/e5090516-1f08-4206-a35b-8a5bb191a3dd>
 # 在线优化（ski-rental）
@@ -24,6 +24,10 @@ https://ieeexplore.ieee.org/document/8457837/references#references
 https://ieeexplore.ieee.org/document/8901372
 + 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，，，）  
 https://ieeexplore.ieee.org/document/8457855
++ 保持热或变冷：用于STaaS云成本优化的随机在线迁移算法  
+https://ieeexplore.ieee.org/document/9481220/references#references
++ 转移与否：使用双层存储即服务云的在线成本优化算法  
+https://ieeexplore.ieee.org/document/8763963
 ## 供参考的文献/网页
 + 移动设备文件系统冷热数据管理策略  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spbf5zBGR3YK255j6wj9g-je0eFuirL7EDnzJs_cHtIc5sTtSxiBJeUFH0VoYW76B-HhcR9YyxWEg9ojaYoHRm9zfLoCwGvKzV2NAB74-2GzIPpOxq74rvVGAddCHzjxgvM=&uniplatform=NZKPT&flag=copy
