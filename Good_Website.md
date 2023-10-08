@@ -22,7 +22,7 @@ https://ieeexplore.ieee.org/document/6337606
 https://ieeexplore.ieee.org/document/8457837/references#references
 + 基于云计算的虚拟信息大数据分层存储方法研究（和云感觉关系不大，优点在于提出了完整的冷热识别、转移思路）
 https://ieeexplore.ieee.org/document/8901372
-+ 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，，，）
++ 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，，，）  
 https://ieeexplore.ieee.org/document/8457855
 ## 供参考的文献/网页
 + 移动设备文件系统冷热数据管理策略  
