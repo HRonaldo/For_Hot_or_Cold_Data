@@ -9,11 +9,13 @@ https://link.springer.com/chapter/10.1007/978-3-642-15328-0_37
 + 页调度（wiki）  
 https://en.wikipedia.org/wiki/Page_replacement_algorithm  
 
-# 云数据库(云原生、K8s、冷热存储)
+# 云数据库(云原生、K8s、冷热存储)  
+## 较新的一批文献  
++ 基于温度模型的工业大数据热点数据识别与缓存策略  
+https://ieeexplore.ieee.org/document/10066767
+
 + 移动设备文件系统冷热数据管理策略  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spbf5zBGR3YK255j6wj9g-je0eFuirL7EDnzJs_cHtIc5sTtSxiBJeUFH0VoYW76B-HhcR9YyxWEg9ojaYoHRm9zfLoCwGvKzV2NAB74-2GzIPpOxq74rvVGAddCHzjxgvM=&uniplatform=NZKPT&flag=copy
-+ 面向冷热数据的存储机制研究与实现  
-https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spa45vTW6TnzGo-B4Y_IS4m35G_OJYv30xPw1o7jO5XrNNDm_VyQGyRbOkdJjSDTdQvl_LCHxHv3EJgb8p4Sba_lV35fAbgsn1f3KzirvNv2o9dL6Dk4HRFduwH3gLL4Rnw=&uniplatform=NZKPT&flag=copy
 + 基于数据温度的冷热数据识别机制研究(上面那篇疑似抄了这篇一部分)  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spa25HVAN2m6vRE8xp4IPytS2GbczM9QOXp0mQrkxIWEEPJVGt76zI0eQBqXOPg_k3NWFmFO55MfDlgPbZtlMCYToxJ3wk7hnOvjRLFqTvTYYbLvzlYjD9_-Zsd0soFjzVQ=&uniplatform=NZKPT&flag=copy
 + 基于Kubernetes的云原生数据库集群部署方案(湿润度比较高)  
