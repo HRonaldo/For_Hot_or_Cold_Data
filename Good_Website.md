@@ -10,10 +10,15 @@ https://link.springer.com/chapter/10.1007/978-3-642-15328-0_37
 https://en.wikipedia.org/wiki/Page_replacement_algorithm  
 
 # 云数据库(云原生、K8s、冷热存储)  
-## 较新的一批文献  
-+ 基于温度模型的工业大数据热点数据识别与缓存策略  
+## 较新的一批文献，用于综述修订
+### 来源于IEEEXplore
++ 基于温度模型的工业大数据热点数据识别与缓存策略(牛顿冷却定律)    
 https://ieeexplore.ieee.org/document/10066767
-
++ 一种基于多维数据的新型冷热数据识别机制(还是牛顿冷却定律，其中的国内外研究现状部分可以“充分借鉴”，涉及到不少冷热方面的论文)  
+https://ieeexplore.ieee.org/document/9943890
++ 适用于大规模搜索引擎的基于 SSD 的高效混合存储架构(2012年，冷热存储的早期介绍)  
+https://ieeexplore.ieee.org/document/6337606
+## 供参考的文献/网页
 + 移动设备文件系统冷热数据管理策略  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spbf5zBGR3YK255j6wj9g-je0eFuirL7EDnzJs_cHtIc5sTtSxiBJeUFH0VoYW76B-HhcR9YyxWEg9ojaYoHRm9zfLoCwGvKzV2NAB74-2GzIPpOxq74rvVGAddCHzjxgvM=&uniplatform=NZKPT&flag=copy
 + 基于数据温度的冷热数据识别机制研究(上面那篇疑似抄了这篇一部分)  
