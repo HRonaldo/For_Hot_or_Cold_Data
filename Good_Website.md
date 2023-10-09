@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Page_replacement_algorithm
 # 云数据库(云原生、K8s、冷热存储)  
 ## 较新的一批文献，用于综述修订
 ### 来源于IEEEXplore
++ 对于LRU算法以及LFU算法的一些讲解
+<https://ieeexplore.ieee.org/document/8514951>
 + 基于温度模型的工业大数据热点数据识别与缓存策略(牛顿冷却定律)    
 https://ieeexplore.ieee.org/document/10066767
 + 一种基于多维数据的新型冷热数据识别机制(还是牛顿冷却定律，其中的国内外研究现状部分可以“充分借鉴”，涉及到不少冷热方面的论文)  
