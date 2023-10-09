@@ -1,4 +1,4 @@
-<img width="581" alt="image" src="https://github.com/HRonaldo/For_Hot_or_Cold_Data/assets/116811457/4bad0924-00c8-4115-9f17-79e757d17e6c">// you could add good website in this file  
+// you could add good website in this file  
 # 申报书、项目答辩
 + <http://desktop.nju.edu.cn/CXCY/NJU/Item/Detail/e5090516-1f08-4206-a35b-8a5bb191a3dd>
 # 在线优化（ski-rental）
