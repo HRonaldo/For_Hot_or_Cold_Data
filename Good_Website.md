@@ -28,6 +28,13 @@ https://ieeexplore.ieee.org/document/8457855
 https://ieeexplore.ieee.org/document/9481220/references#references
 + 转移与否：使用双层存储即服务云的在线成本优化算法  
 https://ieeexplore.ieee.org/document/8763963
++ RLTiering：使用深度强化学习的双层云存储的成本驱动自动分层系统  
+https://ieeexplore.ieee.org/document/9964112
++ 从用户角度优化云存储的成本：最新进展、分类和调查(23年的综述，不错，“充分借鉴”)  
+https://dl.acm.org/profile/99660323595
+**以上四篇文章都是山东大学刘明宇的，感觉冷热分离存储这个问题，如果能上道的话，还是能做(水)很多工(文)作(章)的**  
++ 优化云存储成本(SCOPe框架，和在线算法不同，23年ICDE顶会)  
+https://ieeexplore.ieee.org/document/10184773
 ## 供参考的文献/网页
 + 移动设备文件系统冷热数据管理策略  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spbf5zBGR3YK255j6wj9g-je0eFuirL7EDnzJs_cHtIc5sTtSxiBJeUFH0VoYW76B-HhcR9YyxWEg9ojaYoHRm9zfLoCwGvKzV2NAB74-2GzIPpOxq74rvVGAddCHzjxgvM=&uniplatform=NZKPT&flag=copy
