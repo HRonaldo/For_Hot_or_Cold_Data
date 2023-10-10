@@ -10,6 +10,8 @@ https://link.springer.com/chapter/10.1007/978-3-642-15328-0_37
 https://en.wikipedia.org/wiki/Page_replacement_algorithm  
 
 # 云数据库(云原生、K8s、冷热存储)  
++ 云计算仿真与建模综述(介绍了各种各样的云计算仿真软件)  
+https://link.springer.com/article/10.1007/s42979-020-00273-1  
 ## 较新的一批文献，用于综述修订
 ### 来源于IEEEXplore
 + 对于LRU算法以及LFU算法的一些讲解
