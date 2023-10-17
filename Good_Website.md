@@ -26,7 +26,7 @@ https://ieeexplore.ieee.org/document/6337606
 https://ieeexplore.ieee.org/document/8457837/references#references
 + 基于云计算的虚拟信息大数据分层存储方法研究（和云感觉关系不大，优点在于提出了完整的冷热识别、转移思路）
 https://ieeexplore.ieee.org/document/8901372
-+ 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，，，）  
++ 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，基本上是我们工作的模板）  
 https://ieeexplore.ieee.org/document/8457855
 + 保持热或变冷：用于STaaS云成本优化的随机在线迁移算法  
 https://ieeexplore.ieee.org/document/9481220/references#references
