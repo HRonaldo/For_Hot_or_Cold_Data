@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Page_replacement_algorithm
 https://link.springer.com/article/10.1007/s42979-020-00273-1  
 ## 较新的一批文献，用于综述修订
 ### 来源于IEEEXplore
-+ 对于LRU算法以及LFU算法的一些讲解
++ 对于LRU算法以及LFU算法的一些讲解  
 <https://ieeexplore.ieee.org/document/8514951>
 + 基于温度模型的工业大数据热点数据识别与缓存策略(牛顿冷却定律)    
 https://ieeexplore.ieee.org/document/10066767
@@ -39,6 +39,8 @@ https://dl.acm.org/profile/99660323595
 **以上四篇文章都是山东大学刘明宇的，感觉冷热分离存储这个问题，如果能上道的话，还是能做(水)很多工(文)作(章)的**  
 + 优化云存储成本(SCOPe框架，和在线算法不同，23年ICDE顶会)  
 https://ieeexplore.ieee.org/document/10184773
++ A Reinforcement Learning Based System for Minimizing Cloud Storage Service Cost  
+https://dl.acm.org/doi/abs/10.1145/3404397.3404466
 ## 供参考的文献/网页
 + 移动设备文件系统冷热数据管理策略  
 https://kns.cnki.net/kcms2/article/abstract?v=VPv4tPL7Spbf5zBGR3YK255j6wj9g-je0eFuirL7EDnzJs_cHtIc5sTtSxiBJeUFH0VoYW76B-HhcR9YyxWEg9ojaYoHRm9zfLoCwGvKzV2NAB74-2GzIPpOxq74rvVGAddCHzjxgvM=&uniplatform=NZKPT&flag=copy
