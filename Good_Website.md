@@ -26,7 +26,7 @@ https://ieeexplore.ieee.org/document/6337606
 https://ieeexplore.ieee.org/document/8457837/references#references
 + 基于云计算的虚拟信息大数据分层存储方法研究（和云感觉关系不大，优点在于提出了完整的冷热识别、转移思路）
 https://ieeexplore.ieee.org/document/8901372
-+ 冷热层云存储服务的成本优化算法（就是那篇高度相似的文章，基本上是我们工作的模板）  
++ 冷热层云存储服务的成本优化算法（最初那篇高度相似的文章）  
 https://ieeexplore.ieee.org/document/8457855
 + 保持热或变冷：用于STaaS云成本优化的随机在线迁移算法  
 https://ieeexplore.ieee.org/document/9481220/references#references
@@ -34,9 +34,9 @@ https://ieeexplore.ieee.org/document/9481220/references#references
 https://ieeexplore.ieee.org/document/8763963
 + RLTiering：使用深度强化学习的双层云存储的成本驱动自动分层系统  
 https://ieeexplore.ieee.org/document/9964112
-+ 从用户角度优化云存储的成本：最新进展、分类和调查(23年的综述，不错，“充分借鉴”)  
++ 从用户角度优化云存储的成本：最新进展、分类和调查(23年的综述)  
 https://dl.acm.org/profile/99660323595  
-**以上四篇文章都是山东大学刘明宇的，感觉冷热分离存储这个问题，如果能上道的话，还是能做(水)很多工(文)作(章)的**  
+**以上四篇文章都是山东大学刘明宇的**  
 + 优化云存储成本(SCOPe框架，和在线算法不同，23年ICDE顶会)  
 https://ieeexplore.ieee.org/document/10184773
 + A Reinforcement Learning Based System for Minimizing Cloud Storage Service Cost  
