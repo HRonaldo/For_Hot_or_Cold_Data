@@ -3,3 +3,4 @@
 + 清华大学的Library for TSF <https://github.com/thuml/Time-Series-Library?tab=readme-ov-file>
 + 知乎上面对于时序预测的持续追踪 <https://www.zhihu.com/column/c_1606977997864701953>
 + 时序预测的多个方法总结，安装backbone类型以及单变量多变量 <https://github.com/ddz16/TSFpaper>
++ time series forecast benchmark <https://cloud.tsinghua.edu.cn/f/b8f4a78a39874ac9893e/?dl=1>
