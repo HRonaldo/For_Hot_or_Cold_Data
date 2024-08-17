@@ -8,8 +8,10 @@
    - 在多个benchmark上面做了extensive experiment，可以作为第三个创新点
 
 3. 深度学习初步创新点：
-   - 因果卷积(WaveNet)
+   - 因果膨胀卷积(WaveNet)替代原来的isometric convolution
    - 加权求和
+   - 对于时序休息的空间域和频域的信息分别提取
+   - 大概率会完全使用卷积来做，而不采用Transformer架构
 
-4. 在线优化结合创新：
-   - to be determined
+5. 在线优化结合创新：
+   - 以nuips论文提出的观点为baseline，设置一个系数从而达到效果
